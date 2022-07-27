@@ -1,0 +1,33 @@
+body{
+    background-image: url(../imagens/fundo-fotografico-em-tecido-piscina-2-80x1-50m-cenario-3d.jpg); 
+background-size:100%;   
+}
+.play{
+    width: 350px ;
+    
+}
+
+.pl{
+    width: 50%;
+
+}
+.shark{
+    width: 30%;
+}
+.cor{
+    color: aqua;
+   
+    
+}
+.caixa{
+    width:100%
+}
+
+
+
+.clap{
+  max-width: 1489px;
+  max-height: 590px;
+  width: 100%;
+  margin: c;
+}
