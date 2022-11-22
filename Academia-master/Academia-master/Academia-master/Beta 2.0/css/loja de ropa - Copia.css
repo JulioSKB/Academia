@@ -1,0 +1,59 @@
+body{
+    background-image: url(../imagens/fundo-fotografico-em-tecido-piscina-2-80x1-50m-cenario-3d.jpg); 
+background-size:100%;   
+}
+.play{
+    width: 350px ;
+    
+}
+
+.pl{
+    margin-left: 130px;
+
+}
+.shark{
+    width: 100%;
+    max-width: 1500px;
+    width: 80px;
+}
+.cor{
+    color: aqua;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-left: 20px;
+   
+    
+}
+
+.zeus{
+    margin: 20px;
+    
+}
+ 
+.clap{
+  max-width: 2089px;
+  max-height: 590px;
+  width: 100%;
+}
+.poseidon{
+    max-width: 2000px;
+    width: 100%;
+    width: 300px;
+    margin-left: 460px;
+}
+
+.hermes{
+    max-width: 400px;
+    max-height: 600px;
+    width: 100%;
+    width: 400px;
+    margin: 45px ;
+    height: 600px;
+    border-color: blue;
+    border: 15px;
+    border-radius: 10px;
+
+}
+.afrodite{
+
+}
